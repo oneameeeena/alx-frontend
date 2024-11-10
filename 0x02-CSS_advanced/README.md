@@ -1,0 +1,1 @@
+ In this project, we focus on advanced CSS concepts, including responsive design, layout techniques, and animations. We use CSS to improve the visual design and usability of web applications. The project tasks include creating custom layouts, handling media queries, and using CSS animations to enhance user interaction.
